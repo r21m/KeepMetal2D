@@ -1,7 +1,5 @@
 # KeepMetal2D
 
-En
-
 For permanent cryptographic seed storage, inspired by SatoshiLabs' KeepMetal product.
 For stainless steel. Tested on K40 Laser with CerMark marker.
 
